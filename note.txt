@@ -1,0 +1,16 @@
+// build a secure note taking API service where user can 
+
+- signup/login using basic auth and JWT
+
+- CRUD notes
+
+- store notes in postgresql
+
+- Sensetive info comes from vault like DB creds or JWT secret
+
+- Runs on Kubernetes Locally
+
+- Has CI/CD Helm charts + monitoring ? + K8s operator to manage Configs
+
+
+
